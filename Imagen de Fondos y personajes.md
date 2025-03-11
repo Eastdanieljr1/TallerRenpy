@@ -43,7 +43,7 @@ Una vez abierto debemos esctibir
 
 1.- Personajes.
 
-python
+```python
 
 #ESTE ES UN EJEMPLO
 image define Nombre del atributo="Nombre del personaje o Fondo.formato de la imagen"
@@ -62,11 +62,11 @@ image Nombre del atributo = "nombre del fondo.formato de la imagen"
 
 image cuarto = "fondos/cuarto.png"
 
-
+```
 
 Una vez creado para poder utilazarlo deberas simplemente escribir
 
-‵‵‵python
+```python
 #para los personajes y fondos
 
 #para mostrarlo
@@ -82,7 +82,7 @@ hide leo serio
 hide cuarto
 
 
-‵‵‵
+```
 
 Y eso seria todo para los fondos. Hay mas cosas por ver pero el tiempo es limitado.
 
